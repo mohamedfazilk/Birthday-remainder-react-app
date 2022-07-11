@@ -4,7 +4,7 @@ export default [
       name: 'Mohamed Fazil k',
       age: 24,
       image:
-        'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
+       'https://avatars.githubusercontent.com/<mohamedfazilk>'
     },
     {
       id: 2,
