@@ -4,7 +4,7 @@ export default [
       name: 'Mohamed Fazil k',
       age: 24,
       image:
-       'https://avatars.githubusercontent.com/<mohamedfazilk>'
+       'https://avatars.githubusercontent.com/<mohamedfazil>'
     },
     {
       id: 2,
