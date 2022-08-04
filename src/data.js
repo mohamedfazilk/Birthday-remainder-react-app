@@ -1,10 +1,10 @@
+import IMG1 from './assets/fas.jpg'
 export default [
     {
       id: 1,
       name: 'Mohamed Fazil k',
       age: 24,
-      image:
-       'https://avatars.githubusercontent.com/<mohamedfazil>'
+      image:IMG1,
     },
     {
       id: 2,

@@ -1,6 +1,6 @@
 # Getting Started with Create React App
-
-<!-- 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 -->
+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
+<!--  -->
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
